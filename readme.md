@@ -1,24 +1,24 @@
 <div align="center">
     <h1>Hi 👋, I'm MD SARFARAZ [ محمد سرفراز ] <img
-            src="https://komarev.com/ghpvc/?username=learnwithnewton&label=Profile%20views&color=0e75b6&style=flat"
-            alt="learnwithnewton" /> </h1>
+            src="https://komarev.com/ghpvc/?username=sarfarazit&label=Profile%20views&color=0e75b6&style=flat"
+            alt="sarfarazit" /> </h1>
     <h3>A passionate Software Engineer from India <a href="" target="_blank">📄 Resume</a></h3>
                 <h2>🧑🏻 About Me</h2>
                 <p>🔭 I’m currently working on <a
-                        href="https://github.com/learnwithnewton/Azure-OpenAI-GenerativeAI-HandsOn-Tutorials">Azure OpenAI
+                        href="https://github.com/sarfarazit/Azure-OpenAI-GenerativeAI-HandsOn-Tutorials">Azure OpenAI
                         Service</a></p>
                 <p>🌱 I’m currently learning <strong>Generative AI, Streamlit, Computer Vision, Stable
                         Diffusion</strong></p>
                 <p>👨‍💻 All of my projects are available at <a
-                        href="https://github.com/learnwithnewton">https://github.com/learnwithnewton</a></p>
+                        href="https://github.com/sarfarazit">https://github.com/sarfarazit</a></p>
                 <p>📝 I regularly post learning videos on <a
-                        href="https://www.youtube.com/@LearnWithNewton" >https://www.youtube.com/@LearnWithNewton</a></p>
+                        href="https://www.youtube.com/@sarfarazit" >https://www.youtube.com/@sarfarazit</a></p>
                 <p>💬 Ask me about <strong>Azure, MuleSoft, Azure OpenAI, Azure Integrations</strong></p>
                 <h2>📚 Portfolio </h2>
                     <p><a href="https://toolsetapp.streamlit.app/">Prompt Collector App & More</a></p>
                     <p><a href="https://advice-reactapp.netlify.app/">Simple Quote Generator React App</a></p>
                     <p><a href="https://github.com/marketplace/actions/podcast-generator-workflow">Podcast Generator Workflow</a></p>
-                    <p><a href="https://learnwithnewton.github.io/LearnWithNewton">JavaScript based Utility App</a></p>
+                    <p><a href="https://sarfarazit.github.io/sarfarazit">JavaScript based Utility App</a></p>
                 <h2>🏆 Certifications</h2>
                     <a href="https://www.credly.com/badges/a95239f5-64f7-4e74-853c-164c2f781912">LFQ101:
                             Fundamentals of Quantum Computing</a><br>
@@ -35,27 +35,27 @@
                     <a href="https://www.credly.com/badges/b704f9a0-ca3d-44b3-89c3-80ea6e56c80c">Microsoft
                             Certified: Azure Fundamentals</a><br>
                 <h2>🔗 Social Links</h2>
-                    <a href="https://LearnWithNewton.wordpress.com" target="_blank">🌐 Blog</a> | 
+                    <a href="https://sarfarazit.wordpress.com" target="_blank">🌐 Blog</a> | 
                     <a href="https://whatsapp.com/channel/0029Vag09xYJP20yz2wkN61X" target="_blank">📱 WhatsApp</a> | 
-                    <a href="https://www.linkedin.com/in/sarfarazit08/" target="_blank">🧑🏽‍🔬 LinkedIn</a> | 
-                    <a href="https://www.youtube.com/@LearnWithNewton" target="_blank">▶️ YouTube</a> | 
-                    <a href="https://learn.microsoft.com/en-us/users/sarfarazit08" target="_blank">🪟 Microsoft </a> |
-                    <a href="mailto:sarfarazit08@gmail.com">📧 Gmail</a> <br>
-                    <a href="https://www.instagram.com/LearnWithNewton/" target="_blank">📷 Instagram</a> | 
-                    <a href="https://twitter.com/LearnWithNewton/" target="_blank">🐦 Twitter</a> | 
-                    <a href="https://pinterest.com/LearnWithNewton/" target="_blank">📌 Pinterest</a> | 
-                    <a href="https://www.facebook.com/LearnWithNewton" target="_blank">📘 Facebook</a> | 
-                    <a href="https://soundcloud.com/sarfarazit08">🎵 SoundCloud</a> | 
+                    <a href="https://www.linkedin.com/in/sarfarazit/" target="_blank">🧑🏽‍🔬 LinkedIn</a> | 
+                    <a href="https://www.youtube.com/@sarfarazit" target="_blank">▶️ YouTube</a> | 
+                    <a href="https://learn.microsoft.com/en-us/users/sarfarazit" target="_blank">🪟 Microsoft </a> |
+                    <a href="mailto:sarfarazit@gmail.com">📧 Gmail</a> <br>
+                    <a href="https://www.instagram.com/sarfarazit/" target="_blank">📷 Instagram</a> | 
+                    <a href="https://twitter.com/sarfarazit/" target="_blank">🐦 Twitter</a> | 
+                    <a href="https://pinterest.com/sarfarazit/" target="_blank">📌 Pinterest</a> | 
+                    <a href="https://www.facebook.com/sarfarazit" target="_blank">📘 Facebook</a> | 
+                    <a href="https://soundcloud.com/sarfarazit">🎵 SoundCloud</a> | 
                 <h2>📊 GitHub Stats</h2>
-                <img src="https://github-readme-streak-stats.herokuapp.com/?user=learnwithnewton&theme=dark&hide_border=false"
+                <img src="https://github-readme-streak-stats.herokuapp.com/?user=sarfarazit&theme=dark&hide_border=false"
                     alt="GitHub Streak Stats">
-                <img src="https://github-readme-stats.vercel.app/api?username=learnwithnewton&theme=dark&hide_border=false&include_all_commits=false&count_private=false"
+                <img src="https://github-readme-stats.vercel.app/api?username=sarfarazit&theme=dark&hide_border=false&include_all_commits=false&count_private=false"
                     alt="GitHub Stats">
-                <img src="https://github-profile-trophy.vercel.app/?username=learnwithnewton&row=1&column=8&theme=dark_lover"
-                    alt="learnwithnewton" />
-                <img src="https://github-contributor-stats.vercel.app/api?username=learnwithnewton&limit=5&theme=dark&combine_all_yearly_contributions=true"
+                <img src="https://github-profile-trophy.vercel.app/?username=sarfarazit&row=1&column=8&theme=dark_lover"
+                    alt="sarfarazit" />
+                <img src="https://github-contributor-stats.vercel.app/api?username=sarfarazit&limit=5&theme=dark&combine_all_yearly_contributions=true"
                     alt="GitHub Contributor Stats">
-                <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=learnwithnewton&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"
+                <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarfarazit&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"
                     alt="Top Languages">
                 <a href="https://stackoverflow.com/users/3770081/md-sarfaraz"><img
                         src="https://stackoverflow.com/users/flair/3770081.png" width="208" height="58"
@@ -150,7 +150,7 @@
                 <h2>😂 Random Dev Meme</h2>
                 <img src='https://randommeme-five.vercel.app/' style="height: 400px;" />
                 <h2>Support:</h2>
-                <a href="https://www.buymeacoffee.com/sarfarazit08"> <img
+                <a href="https://www.buymeacoffee.com/sarfarazit"> <img
                             src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210"
-                            alt="sarfarazit08" /></a>
+                            alt="sarfarazit" /></a>
 </div>
